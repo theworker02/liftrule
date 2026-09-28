@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/liftrule",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lift URLs and rule query parts with stable normalization.",
+  "bin": {
+    "liftrule": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/liftrule.git"
+  },
+  "homepage": "https://theworker02.github.io/liftrule/",
+  "keywords": [
+    "lift",
+    "rule",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
